@@ -23,3 +23,11 @@ body
 {
     font-size: 20px;
 }
+h1
+{
+    padding: 0.5em auto;
+    margin: auto;
+    background-color: moccasin;
+    color: navy;
+}
+
